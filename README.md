@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome to Quanti!
 
 Learning quantum is fun and easy!
