@@ -3,6 +3,6 @@
 Learning quantum is fun and easy!
 
 
-### Sterters:###
+### Sterters:
 
-[Intro.pdf](http://quanti2311.github.io/Quanti2311/docs/Intro.pdf)
+[Intro.pdf](http://quanti2311.github.io/docs/hy_now_QC.pdf.pdf)
