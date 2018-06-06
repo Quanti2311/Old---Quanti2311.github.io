@@ -1,5 +1,7 @@
 ---
 title: 'The Quantum Internet'
+published by: Omer
+gist: Quantum Internet is here, and it cannot be decrypted
 ---
 
 #### _"It is impossible to measure a property of a system without changing it."_
